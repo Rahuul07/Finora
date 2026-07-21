@@ -10,7 +10,7 @@
 
 A modern **MERN Stack Personal Finance Dashboard** that helps users manage income, expenses, budgets, debts, and financial insights with interactive analytics and a clean responsive interface.
 
-🌐  **Live Demo:** *https://finora-ry.vercel.app*
+🌐  **Live:** *https://finora-ry.vercel.app*
 
 ---
 
@@ -46,30 +46,6 @@ Everything you need to stay financially organized in one place.
 - 📱 Fully Responsive UI
 - ⚡ Fast & Intuitive Interface
 
-# ⚙️ Tech Stack
-
-## Frontend
-
-- React.js
-- React Bootstrap
-- Axios
-- React Router
-- Framer Motion
-- AOS
-- React Icons
-- Chart.js / Recharts
-
-## Backend
-
-- Node.js
-- Express.js
-- MongoDB Atlas
-- JWT Authentication
-- bcrypt.js
-- Multer
-- Nodemailer
-
-
 # 🌟 Highlights
 
 - Secure JWT Authentication
@@ -82,15 +58,32 @@ Everything you need to stay financially organized in one place.
 
 ---
 
-# 🚀 Future Improvements
+## 🚀 Installation
 
-- AI Expense Prediction
-- Savings Goal Tracker
-- Investment Portfolio
-- Recurring Transactions
-- Multi-Currency Support
-- Dark Mode
-- Mobile App
+```bash
+git clone https://github.com/Rahuul07/Finora.git
+
+cd Finora
+
+cd client
+npm install
+
+cd ../server
+npm install
+```
+
+Run Backend
+
+```bash
+npm run dev
+```
+
+Run Frontend
+
+```bash
+cd client
+npm run dev
+```
 
 ---
 
