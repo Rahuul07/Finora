@@ -10,7 +10,7 @@
 
 A modern **MERN Stack Personal Finance Dashboard** that helps users manage income, expenses, budgets, debts, and financial insights with interactive analytics and a clean responsive interface.
 
-🌐  **Live Demo:** *https://finora-ry.vercel.app/*
+🌐  **Live Demo:** *https://finora-ry.vercel.app*
 
 ---
 
