@@ -16,19 +16,9 @@ A modern **MERN Stack Personal Finance Dashboard** that helps users manage incom
 
 # ✨ Why Finora?
 
-Managing personal finances shouldn't be complicated.
+## ✨ Why Finora?
 
-Finora provides an intuitive platform to:
-
-- 💸 Track Income & Expenses
-- 📊 Visualize Spending Analytics
-- 🎯 Set Monthly Budgets
-- 💳 Manage Debts & Loans
-- 🔔 Receive Smart Financial Alerts
-- 📄 Export Reports
-- 🔒 Secure User Authentication
-
-Everything you need to stay financially organized in one place.
+**Finora** is a modern personal finance management platform designed to simplify the way users manage their money. It enables users to securely track income and expenses, create budgets, monitor debts, visualize financial insights through interactive dashboards, receive smart notifications, and generate reports—all within a clean, responsive, and user-friendly interface.
 
 ---
 
