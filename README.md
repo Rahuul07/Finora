@@ -36,88 +36,17 @@ Everything you need to stay financially organized in one place.
 
 # 🚀 Features
 
-### 👤 Authentication
-
-- Secure Registration & Login
-- JWT Authentication
-- Protected Routes
-- Profile Management
-- Profile Picture Upload
-
----
-
-### 💰 Expense Management
-
-- Add Expenses
-- Edit Expenses
-- Delete Expenses
-- Search & Filter
-- Category Management
-- Expense History
-
----
-
-### 💵 Income Tracking
-
-- Add Income
-- Update Income
-- Delete Income
-- Monthly Income Overview
-
----
-
-### 📊 Dashboard Analytics
-
-- Income vs Expense Charts
-- Category-wise Expense Distribution
-- Monthly Financial Summary
-- Recent Transactions
-- Spending Trends
-
----
-
-### 🎯 Budget Planner
-
-- Create Monthly Budgets
-- Track Budget Usage
-- Budget Progress
-- Budget Limit Alerts
-
----
-
-### 🤝 Debt Management
-
-- Borrowed Money
-- Lent Money
-- Due Date Tracking
-- Payment Status
-
----
-
-### 🔔 Notifications
-
-- Budget Alerts
-- Due Date Reminders
-- Financial Notifications
-
----
-
-### 📄 Reports
-
-- Financial Reports
-- PDF Export
-- Monthly Summary
-
----
-
-### 📱 Responsive UI
-
-- Mobile Friendly
-- Modern Dashboard
-- Smooth Animations
-- Interactive Charts
-
----
+- 🔐 Secure JWT Authentication
+- 👤 User Profile Management
+- 💰 Income Tracking
+- 💸 Expense Management
+- 🎯 Budget Planning
+- 📊 Interactive Dashboard
+- 📈 Financial Analytics
+- 📅 Monthly Reports
+- 🔔 Smart Notifications
+- 📱 Fully Responsive UI
+- ⚡ Fast & Intuitive Interface
 
 # ⚙️ Tech Stack
 
@@ -142,122 +71,12 @@ Everything you need to stay financially organized in one place.
 - Multer
 - Nodemailer
 
----
-
-# 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/finora.git
-
-cd finora
-```
-
-Install dependencies
-
-```bash
-cd client
-npm install
-
-cd ../server
-npm install
-```
-
-Start Backend
-
-```bash
-npm run dev
-```
-
-Start Frontend
-
-```bash
-cd client
-
-npm start
-```
-
----
-
-# 🔑 Environment Variables
-
-Create a `.env` file inside the **server** folder.
-
-```env
-PORT=8000
-
-MONGO_URI=your_mongodb_connection_string
-
-JWT_SECRET=your_secret_key
-
-EMAIL_USER=your_email
-
-EMAIL_PASS=your_password
-```
-
----
-
-# 📸 Screenshots
-
-### 🏠 Dashboard
-
-*(Add Screenshot)*
-
----
-
-### 💸 Expense Management
-
-*(Add Screenshot)*
-
----
-
-### 📊 Analytics
-
-*(Add Screenshot)*
-
----
-
-### 🎯 Budget Planner
-
-*(Add Screenshot)*
-
----
-
-### 👤 Profile
-
-*(Add Screenshot)*
-
----
-
-# 📂 Project Structure
-
-```
-Finora
-│
-├── client
-│   ├── src
-│   ├── public
-│   └── package.json
-│
-├── server
-│   ├── controllers
-│   ├── models
-│   ├── routes
-│   ├── middleware
-│   ├── config
-│   └── package.json
-│
-└── README.md
-```
-
----
 
 # 🌟 Highlights
 
 - Secure JWT Authentication
 - MongoDB Atlas Database
 - Financial Analytics Dashboard
-- Budget Tracking
-- Debt Management
 - Smart Notifications
 - PDF Report Export
 - Fully Responsive Design
@@ -279,13 +98,12 @@ Finora
 
 # 👨‍💻 Author
 
-**Sahil Kolekar**
+**Rahul Yadav**
 
-GitHub: https://github.com/yourusername
+GitHub: [https://github.com/yourusername](https://github.com/Rahuul07)
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rahulyadav09)
 
-Email: your@email.com
 
 ---
 
