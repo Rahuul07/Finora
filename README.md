@@ -10,9 +10,7 @@
 
 A modern **MERN Stack Personal Finance Dashboard** that helps users manage income, expenses, budgets, debts, and financial insights with interactive analytics and a clean responsive interface.
 
-🌐  **Live Demo:** *(https://finora-ry.vercel.app/)*
-
-📂 **Repository:** *(Add your GitHub repository link here)*
+🌐  **Live Demo:** *https://finora-ry.vercel.app/*
 
 ---
 
@@ -100,9 +98,9 @@ Everything you need to stay financially organized in one place.
 
 **Rahul Yadav**
 
-GitHub:(https://github.com/Rahuul07)
+GitHub: https://github.com/Rahuul07
 
-LinkedIn:(https://www.linkedin.com/in/rahulyadav09)
+LinkedIn: https://www.linkedin.com/in/rahulyadav09
 
 
 ---
